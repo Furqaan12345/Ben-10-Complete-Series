@@ -1,0 +1,38 @@
+.links {
+    float: up;
+    color: #ff2200;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 3px;
+    padding-bottom: 9px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.links:hover {
+    background-color: #03e8fc;
+}
+
+img {
+    height: 700px;
+    width: 700px;
+}
+
+.article {
+    font-size: 35px;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: #00ffb7;
+}
+
+#heading {
+    color: red;
+}
